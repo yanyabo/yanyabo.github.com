@@ -1,0 +1,55 @@
+body {
+    font: 14px "Microsoft YaHei", STHeiti, "WenQuanYi Micro Hei", SimSun, sans-serif;
+    font-weight: 300;
+    margin: 0px;
+    height: 100%;
+    background:#fff;
+    color: #4c4c4c;
+}
+html {
+    height: 100%;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, aside, blockquote, th, td, span, i, b {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+em, i {
+    font-style: normal;
+}
+
+.fl{
+    float: left;
+}
+.fr {
+    float: right;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.hide {
+    display: none;
+}
+
+.block {
+    display: block;
+}
+.clear{
+    clear:both;
+}
+.center{
+    text-align:center;
+}
